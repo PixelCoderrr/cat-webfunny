@@ -1,0 +1,64 @@
+
+.box{
+    background-color: rgb(6, 155, 205);
+    padding: 20px;
+}
+.title{
+    font-size: 50px;
+}
+.text{
+    font-size: 30px;
+}
+.button{
+    background-color: lightgray;
+    color: black;
+    padding: 10px 2px ;
+    border: none;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    display: inline-block;
+    width: 100px;
+}
+html, body{
+    background-color: rgb(226, 222, 222)
+    ;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: rgb(252, 252, 252);
+    padding: 20px;
+    margin: 30px;
+}
+.image{ 
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+.main-content{
+    max-width:800px;
+    margin: auto;
+}
+.top-header{
+    background-color:rgb(57, 53, 53);
+    padding: 25px;
+}
+.menu-item{
+    color:aliceblue;
+    text-decoration: none;
+    padding: 10px;
+    display: inline-block;
+    
+}
+.brand{
+    font-size: 24px;
+    font-weight: bold;
+}
+.bottom-footer{
+    background-color:rgb(57, 53, 53);
+    color:aliceblue;
+    padding: 10px;
+    text-align: center;
+}
